@@ -20,7 +20,7 @@ team6の議事録管理リポジトリ
 6. 解凍されたmarkdownの名前を変更してdaily-meeting-team6をcloneしたフォルダに保存
 7. 'git add 対象ファイル名（.）' で対象ファイルを追加
 8. 'git commit -m "コメント"' でコミット
-9. 'git push' でリモートにプッシュ (~/.gitconfigを編集すると自動でブランチをリモートに追加 [here](## 備考))
+9. 'git push' でリモートにプッシュ (~/.gitconfigを編集すると自動でブランチをリモートに追加 [備考](#備考))
 10. GitHubのページでプルリクエストを送る
 11. 誰かがApproveしたらMergeしてmainに反映
 
