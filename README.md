@@ -31,3 +31,4 @@ team6の議事録管理リポジトリ
   [push]
     autoSetupRemote = true
   ```
+- 参考: https://stackoverflow.com/questions/27981247/github-markdown-same-page-link
