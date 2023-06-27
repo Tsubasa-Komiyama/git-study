@@ -26,6 +26,8 @@ team6の議事録管理リポジトリ
 
 ## 備考
 
-- gitconfigに追加する内容 (場所: ~/.gitconfig)
+gitconfigに追加する内容 (場所: ~/.gitconfig)
+  ```
   [push]
     autoSetupRemote = true
+  ```
